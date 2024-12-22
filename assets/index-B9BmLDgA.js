@@ -1,0 +1,1 @@
+import{j as e}from"./index-CitMMgsv.js";function s(){return e.jsxs("footer",{className:"mt-14 flex flex-col items-center justify-center gap-2 py-6 text-sm text-slate-100",children:[e.jsx("p",{children:"Feito por Fabrício Washington"}),e.jsxs("p",{children:["Todos os direitos reservados © ",new Date().getFullYear()]})]})}export{s as default};
