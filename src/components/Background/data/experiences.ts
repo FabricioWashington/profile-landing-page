@@ -2,7 +2,7 @@ export const experiences = [
   {
     role: 'Desenvolvedor Web Trainne',
     company: 'UITEC',
-    period: '2024 - Presente',
+    period: '2024 - Atualmente',
     link: 'https://www.linkedin.com/company/uitec-brasilia/posts/?feedView=all',
     description:
       'Atuo como desenvolvedor full stack, sou responsável por criar soluções inovadoras para sites, utilizando tecnologias como Angular, PHP e banco de dados PostgreSQL. Meu foco está em personalização avançada, design responsivo e desenvolvimento de sistemas modulares, garantindo a adição e configuração de componentes reutilizáveis. Também colaboro em projetos que utilizam metodologias ágeis, buscando otimizar processos e garantir a escalabilidade dos sistemas entregues.',
